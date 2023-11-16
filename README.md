@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AffanAhmedUsmani
 - 👀 I’m interested in Developing software 
 - 🌱 I’m currently Django and Python developer
-- 💞️ I’m looking to collaborate on Multiple web projects related to web development 
+- 💞️ I’m looking to collaborate on Multiple web and automating projects . 
 - 📫 How to reach me @ send2affanahmed@gmail.com
 
 <!---
